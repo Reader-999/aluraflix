@@ -2,14 +2,15 @@ body {
     color: rgb(185, 225, 243);
     background: rgb(116, 176, 216);
     margin: 0px;
+    font-family: "Macondo", serif;
 }
 
- header { 
-border-bottom: solid 4px rgb(18, 52, 114);
-padding: 20px;
-font-size: 32px;
-color: rgb(27, 72, 114);
- }
+header {
+    border-bottom: solid 4px rgb(18, 52, 114);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(27, 72, 114);
+}
 
 section {
     background: rgb(31, 81, 156);
@@ -17,7 +18,7 @@ section {
     padding-top: 80px;
     display: flex;
     justify-content: center;
-    color:rgb(3, 29, 68);
+    color: rgb(3, 29, 68);
 }
 
 .chamada-texto {
